@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/l210w94co9go3u6f?svg=true)](https://ci.appveyor.com/project/Ibragim066/rxjs)
